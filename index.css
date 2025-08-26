@@ -1,0 +1,46 @@
+h2{
+  font-size: 30px;
+  text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+  text-align: center;
+  color: red;
+  font-family: Times New Roman;
+}
+.life{
+  text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+  text-align: center;
+  color:skyblue ;
+  font-family: Courier New;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.love{
+  margin: 0 0 0 60px;
+  width: 230px;
+  height: auto;
+  border:solid #660033 4px;
+  border-radius: 10px;
+}
+.pium{
+  border: solid #FFD700  4px;
+  background-color: #FFFF;
+  padding: 10px 10px 10px 10px;
+  color: #FF8080;
+  text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
+}
+ .pium{
+  font-weight: bold;
+  font-size: 14px;
+  font-family: Georgia;
+  word-spacing: 5px;
+  line-height: 1.6;
+ }
+.mia{
+  text-align: center;
+  font-size: 12px;
+  font-family: Times New Roman;
+  font-weight: bold;
+}
+body{
+  background: #FFC5C5;
+}
